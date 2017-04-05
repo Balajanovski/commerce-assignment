@@ -42,8 +42,8 @@ strong {
 }
 
 #Logo {
-    width: 280px;
-    height: 280px;
+    width: 200px;
+    height: 200px;
     border: solid #cccccc;
     margin-top: 20px;
     animation-delay: 1s;
@@ -90,7 +90,7 @@ ul {
 #Exam {
     position: absolute;
     width: 380px;
-    height: 280px;
+    height: 200px;
     border: solid #cccccc;
     margin-left: 140px;
     margin-top: 20px;
@@ -104,8 +104,8 @@ ul {
 #Kid {
     position: absolute;
     width: 380px;
-    height: 280px;
-    margin-left: -833px;
+    height: 200px;
+    margin-left: -740px;
     margin-top: 20px;
     animation-delay: 1s;
     animation-duration: 2s;
