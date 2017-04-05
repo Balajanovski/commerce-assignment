@@ -25,7 +25,7 @@ strong {
     width: 55%;
     margin-left: 22.5%;
     text-align: center;
-    margin-top: 50px;
+    margin-top: 25px;
     animation-delay: 2s;
     animation-duration: 2s;
     animation-name: fade;
@@ -55,11 +55,11 @@ strong {
 
 #Info {
     position: absolute;
-    margin-top: 240px;
+    margin-top: 180px;
     width: 55%;
     font-size: 16px;
     text-align: center;
-    margin-left: 21.7%;
+    margin-left: 21.5%;
     padding: 20px;
     animation-delay: 3s;
     animation-duration: 2s;
